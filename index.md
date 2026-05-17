@@ -11,7 +11,7 @@ body{font-family:Arial,sans-serif;background:#fff;color:#333}
 .site-nav a{color:#e8eaed;text-decoration:none;padding:0 14px;height:56px;line-height:56px;font-size:14px;font-weight:500}
 .site-nav a:hover{background:rgba(255,255,255,0.1)}
 .site-nav a.active{border-bottom:3px solid #fff;font-weight:700}
-.hero{position:relative;width:100%;min-height:400px;background:url('/RS-Cinema-Villa-Luxury---Cinematic-Excellence/images/RScinemavilla1.jpg') center/cover no-repeat;display:flex;align-items:center;justify-content:center}
+.hero{position:relative;width:100%;min-height:400px;background:url('/RS-Cinema-Villa-Luxury---Cinematic-Excellence/images/RScinemavilla1.JPG') center/cover no-repeat;display:flex;align-items:center;justify-content:center}
 .hero::before{content:'';position:absolute;inset:0;background:rgba(0,0,0,0.45)}
 .hero-box{position:relative;border:2px solid rgba(255,255,255,0.7);padding:40px 60px;text-align:center;color:#fff}
 .hero-box h1{font-size:52px;font-weight:700;margin-bottom:12px}
@@ -54,7 +54,7 @@ body{font-family:Arial,sans-serif;background:#fff;color:#333}
 </section>
 <section class="intro-section">
 <div class="intro-img">
-<img src="/RS-Cinema-Villa-Luxury---Cinematic-Excellence/images/RScinemavilla1.jpg" alt="RS Cinema Villa">
+<img src="/RS-Cinema-Villa-Luxury---Cinematic-Excellence/images/RScinemavilla1.JPG" alt="RS Cinema Villa">
 </div>
 <div class="intro-text">
 <p><b>Welcome to RS Cinema Villa</b> &#127916;&#10024; A luxury private villa in the peaceful heart of Moinabad, Hyderabad &mdash; designed for privacy, celebration, and premium experiences.</p>
