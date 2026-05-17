@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gallery
+permalink: /gallery/
 ---
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
