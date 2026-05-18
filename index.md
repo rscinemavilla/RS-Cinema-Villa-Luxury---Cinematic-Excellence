@@ -4,7 +4,7 @@ title: RS Cinema Villa
 ---
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:Arial,sans-serif;background:#fff;color:#333}
+body{font-family:Arial,sans-serif;background:#000;color:#fff}
 .site-header{position:sticky;top:0;z-index:1000;background:#202124;display:flex;align-items:center;justify-content:space-between;padding:0 24px;height:56px}
 .brand{color:#fff;font-size:18px;font-weight:600;text-decoration:none}
 .site-nav{display:flex;flex-wrap:wrap}
