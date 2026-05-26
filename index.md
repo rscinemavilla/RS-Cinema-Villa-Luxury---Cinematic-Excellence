@@ -169,7 +169,7 @@ body{font-family:'Jost',sans-serif;background:#faf9f7;color:#1a1a1a}
 <section class="hero">
   <div class="hero-content">
     <span class="hero-eyebrow">Moinabad &middot; Hyderabad</span>
-    <h1>A villa that feels like <em>yours</em></h1>
+    <h1>Luxury Private Villa for Celebrations & Events</h1>
     <p>Hyderabad&rsquo;s most exclusive private villa &mdash; with a cinema room, private pool, and lush open lawns. Entirely yours. Completely private. Utterly unforgettable.</p>
     <div class="hero-cta">
       <a href="https://wa.me/919206845678" class="btn-hero-primary" target="_blank">WhatsApp to Book</a>
